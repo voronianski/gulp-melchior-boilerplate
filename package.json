@@ -1,0 +1,18 @@
+{
+  "name": "melchior-with-gulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.5",
+    "gulp": "^3.8.8",
+    "gulp-melchior": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
+  "license": "ISC"
+}

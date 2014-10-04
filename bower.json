@@ -1,0 +1,21 @@
+{
+  "name": "melchior-with-gulp",
+  "version": "0.0.0",
+  "authors": [
+    "Dmitri Voronianski <dmitri.voronianski@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10",
+    "melchiorjs": "~0.1.4-rc",
+    "underscore": "~1.7.0"
+  }
+}
